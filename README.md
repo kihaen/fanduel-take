@@ -1,5 +1,5 @@
 
-## `Live` :  https://kihaen.github.io/fanduel-take/
+# [FanDuel-Take](https://html5boilerplate.com/)
 
 created using Create React App
 
