@@ -1,5 +1,5 @@
 
-# [FanDuel-Take](https://html5boilerplate.com/)
+# [FanDuel-Take](https://kihaen.github.io/fanduel-take/)
 
 created using Create React App
 
@@ -24,6 +24,11 @@ gh-pages
 ## UI Libraries
 
 Shards-React
+
+
+## Homepage: [https://html5boilerplate.com/](https://html5boilerplate.com/)
+## Source: [https://github.com/h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
+## Twitter: [@h5bp](https://twitter.com/h5bp)
 
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
