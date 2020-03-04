@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fanduel-take/static/css/main.3d88fe00.chunk.css",
+    "main.js": "/fanduel-take/static/js/main.a76e8350.chunk.js",
+    "main.js.map": "/fanduel-take/static/js/main.a76e8350.chunk.js.map",
+    "runtime-main.js": "/fanduel-take/static/js/runtime-main.6f372203.js",
+    "runtime-main.js.map": "/fanduel-take/static/js/runtime-main.6f372203.js.map",
+    "static/css/2.6ea3de80.chunk.css": "/fanduel-take/static/css/2.6ea3de80.chunk.css",
+    "static/js/2.c5f1d222.chunk.js": "/fanduel-take/static/js/2.c5f1d222.chunk.js",
+    "static/js/2.c5f1d222.chunk.js.map": "/fanduel-take/static/js/2.c5f1d222.chunk.js.map",
+    "index.html": "/fanduel-take/index.html",
+    "precache-manifest.c616c635ebd230a31d644c931dfe0ba4.js": "/fanduel-take/precache-manifest.c616c635ebd230a31d644c931dfe0ba4.js",
+    "service-worker.js": "/fanduel-take/service-worker.js",
+    "static/css/2.6ea3de80.chunk.css.map": "/fanduel-take/static/css/2.6ea3de80.chunk.css.map",
+    "static/css/main.3d88fe00.chunk.css.map": "/fanduel-take/static/css/main.3d88fe00.chunk.css.map",
+    "static/js/2.c5f1d222.chunk.js.LICENSE.txt": "/fanduel-take/static/js/2.c5f1d222.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f372203.js",
+    "static/css/2.6ea3de80.chunk.css",
+    "static/js/2.c5f1d222.chunk.js",
+    "static/css/main.3d88fe00.chunk.css",
+    "static/js/main.a76e8350.chunk.js"
+  ]
+}
