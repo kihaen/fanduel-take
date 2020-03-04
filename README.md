@@ -23,7 +23,7 @@ gh-pages
 Shards-React
 
 
-## Homepage: [https://html5boilerplate.com/](https://kihaen.com)
+## Homepage: [https://kihaen.com/](https://kihaen.com)
 
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
