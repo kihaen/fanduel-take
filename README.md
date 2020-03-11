@@ -1,7 +1,7 @@
 
 # [FanDuel-Take](https://kihaen.github.io/fanduel-take/)
 
-created using Create React App
+created using Create React App , available live!
 
 ## Available Scripts
 
